@@ -1,2 +1,1 @@
-Hello, ALX school! 
-What a journey!
+My updated README.md file
